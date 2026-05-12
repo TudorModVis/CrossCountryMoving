@@ -38,7 +38,7 @@ export default function Footer () {
                 <div className="flex flex-col lg:flex-row items-center lg:justify-between mt-20 lg:mt-32">
                     <p className="text-xs lg:text-base font-medium mb-2 lg:mb-0 text-white text-center">Copyright © 2024 Cross Country Moving. <br className="lg:hidden"/> All rights reserved </p>
                     <div className="flex items-center gap-2">
-                        <a href="https://studiomodvis.com/EN/home" className="text-xs lg:text-base font-medium text-white">Powered by Studio Modvis </a>
+                        <a href="https://modvis.studio/EN/home" className="text-xs lg:text-base font-medium text-white">Powered by Studio Modvis </a>
                         <img src="/modvis-logo.svg" alt="modvis logo" className="size-2 lg:size-3"/>
                     </div>  
                 </div>
